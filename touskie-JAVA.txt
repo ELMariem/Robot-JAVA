@@ -1,0 +1,31 @@
+Recharge via Recharger (Button):
+
+✅ Easy access, always available.(fully recharger)
+
+❌ Causes +30% pollution.
+
+Recharge via Sun:
+
+✅ Eco-friendly, reduces pollution by 30%.
+
+❌ Robot needs some energy to get to the sun.(10%)
+
+✅ Once there, it restores 20% of its energy
+
+✅ 3. Block When 100%:
+🔴 If pollution ≥ 100%, robot is blocked.
+
+🔓 It remains blocked until pollution drops below 90%
+
+When robot delivers a package:
+➕ Pollution += distance × 10%
+(This is good — encourages efficient routes.)
+
+Pollution Reduces Over Time:
+⏳ Every 3 seconds, pollution reduces by 10% (as you suggested).
+
+
+
+3malna el id w kifeh ya9ra w kol 
+
+ne9es dhribet el pollution , w kifeh ton9os w kol 

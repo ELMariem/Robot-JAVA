@@ -21,19 +21,19 @@ des actions.
 ## Aperçu
 
 ### Interface principale
-![Interface principale](1erVUE.png)
+![Interface principale](images/1erVUE.png)
 
 ### Création du robot & chargement d'un colis
-![Chargement colis](chargerColie.png)
+![Chargement colis](images/chargerColie.png)
 
 ### Connexion du robot au réseau
-![Connexion](Connect.png)
+![Connexion](images/Connect.png)
 
 ### Robot créé et prêt
-![Robot créé](createRobot.png)
+![Robot créé](images/createRobot.png)
 
 ### Livraison effectuée
-![Livraison](livrer.png)
+![Livraison](images/livrer.png)
 
 ---
 
